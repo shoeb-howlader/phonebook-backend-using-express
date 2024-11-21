@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkphonebook_using_vue3_vuetify3"]=self["webpackChunkphonebook_using_vue3_vuetify3"]||[]).push([[594],{5282:function(u,n,e){e.r(n),e.d(n,{default:function(){return c}});var t=e(6768);const o={class:"about"};function s(u,n){return(0,t.uX)(),(0,t.CE)("div",o,n[0]||(n[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)]))}var a=e(1241);const i={},r=(0,a.A)(i,[["render",s]]);var c=r}}]);
+//# sourceMappingURL=about.eed6585d.js.map
