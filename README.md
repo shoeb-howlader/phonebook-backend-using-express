@@ -48,8 +48,8 @@ node server.js
 ```
 
 ## Accessing the Application
-- **Frontend:** Open `http://localhost:3000` in your web browser
-- **Backend API:** Accessible at `http://localhost:3000/api/*`
+- **Frontend:** Open `http://localhost:3001` in your web browser
+- **Backend API:** Accessible at `http://localhost:3001/api/*`
 
 ## Default Admin Credentials
 - **Username:** `admin`
@@ -82,7 +82,7 @@ node server.js
 ## Frontend Serving
 - The `public` folder contains the compiled frontend from Vue 3 project
 - Served automatically when you run `node server.js`
-- Accessible at `http://localhost:3000`
+- Accessible at `http://localhost:3001`
 
 ## Error Handling
 - Global error handler implemented
@@ -99,7 +99,7 @@ To start developing:
 2. Run `npm install` to get dependencies
 3. Configure your MongoDB connection
 4. Run the server with `node server.js`
-5. Access the application at `http://localhost:3000`
+5. Access the application at `http://localhost:3001`
 
 ## License
 
