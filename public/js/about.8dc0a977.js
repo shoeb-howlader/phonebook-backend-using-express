@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkKDA_Phonebook"]=self["webpackChunkKDA_Phonebook"]||[]).push([[594],{5282:function(n,u,e){e.r(u),e.d(u,{default:function(){return h}});var o=e(6768);const t={class:"about"};function a(n,u){return(0,o.uX)(),(0,o.CE)("div",t,u[0]||(u[0]=[(0,o.Lk)("h1",null,"This is an about page",-1)]))}var r=e(1241);const s={},c=(0,r.A)(s,[["render",a]]);var h=c}}]);
+//# sourceMappingURL=about.8dc0a977.js.map
